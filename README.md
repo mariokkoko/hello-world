@@ -1,2 +1,2 @@
 # hello-world
-repo to learn how to wooper
+repo to learn about BEANIE WOOPER
