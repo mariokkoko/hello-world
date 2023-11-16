@@ -1,2 +1,2 @@
 # hello-world
-repo to learn about BEANIE WOOPER
+repo to learn about deez nuts
